@@ -1,0 +1,16 @@
+1. Automatic Control of Street Lights
+https://microcontrollerslab.com/automatic-control-of-street-lights/
+
+2.Water Level Indicator 
+https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/
+https://electrosome.com/water-level-indicator-controller-pic/
+https://www.circuitstoday.com/water-level-controller-using-8051
+
+3.DC motor Speed Control 
+https://microcontrollerslab.com/speed-control-dc-motor-using-pic-microcontroller/
+
+4.Electronic Lock
+https://microcontrollerslab.com/electronic-lock-pic-microcontroller/
+
+5.password based circuit breaker using pic microcontroller
+https://microcontrollerslab.com/password-based-circuit-breaker/

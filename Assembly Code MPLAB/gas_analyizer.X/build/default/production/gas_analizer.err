@@ -1,0 +1,8 @@
+Warning[205] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 1 : Found directive in column 1. (List)
+Warning[205] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 2 : Found directive in column 1. (Include)
+Warning[207] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 5 : Found label after column 1. (RS)
+Warning[207] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 6 : Found label after column 1. (E)
+Warning[207] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 7 : Found label after column 1. (RW)
+Message[302] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\DISHANRAN SUCHINDA\DESKTOP\GAS_ANALYIZER.X\GAS_ANALIZER.ASM 173 : Found directive in column 1. (END)
